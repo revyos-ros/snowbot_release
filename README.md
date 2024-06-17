@@ -1,3 +1,26 @@
+## snowbot_operating_system (jazzy) - 0.1.2-6
+
+The packages in the `snowbot_operating_system` repository were released into the `jazzy` distro by running `/home/z572/gits/revyos-ros/venv/bin/bloom-release -r jazzy snowbot_operating_system --override-release-repository-push-url git@github.com:revyos-ros/snowbot_release.git` on `Mon, 17 Jun 2024 05:36:45 -0000`
+
+The `snowbot_operating_system` package was released.
+
+Version of package(s) in repository `snowbot_operating_system`:
+
+- upstream repository: https://github.com/PickNikRobotics/snowbot_operating_system.git
+- release repository: https://github.com/revyos-ros/snowbot_release.git
+- rosdistro version: `0.1.2-5`
+- old version: `0.1.2-5`
+- new version: `0.1.2-6`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.22.2`
+- rosdistro version: `0.9.0`
+- vcstools version: `0.1.42`
+
+
 ## snowbot_operating_system (noetic) - 0.0.5-1
 
 The packages in the `snowbot_operating_system` repository were released into the `noetic` distro by running `/usr/bin/bloom-release snowbot_operating_system -r noetic -y` on `Tue, 07 Dec 2021 19:59:18 -0000`
